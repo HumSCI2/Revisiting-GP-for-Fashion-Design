@@ -130,8 +130,8 @@ Calibration curves (predicted vs. empirical coverage) show that the Periodic ker
 
 ```bash
 # Clone the repository
-git clone https://github.com/HumSCI2/Revisiting-GP-for-Fashion-Design.git
-cd Revisiting-GP-for-Fashion-Design
+git clone https://github.com/HumSCI2/GP-for-Fashion-Design.git
+cd GP-for-Fashion-Design
 
 # Create environment
 conda env create -f environment.yml
